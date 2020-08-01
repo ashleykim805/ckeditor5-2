@@ -46,8 +46,6 @@ Editor.builtinPlugins = [
 	Autoformat,
 	BlockQuote,
 	Bold,
-	CKFinder,
-	CKFinderUploadAdapter,
 	Essentials,
 	FontColor,
 	FontFamily,
